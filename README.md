@@ -15,6 +15,7 @@ You may find me in other places:
 
 Some interesting current projects:
 
+* [Coronavirus Observer](https://covid.observer/)
 * [Raku challenges](https://andrewshitov.com/raku-challenges-index/)
 * [Creating a Compiler with Raku](https://andrewshitov.com/creating-a-compiler-with-raku/) (a book in progress)
 * [Amazing Python 3 on Instagram](https://www.instagram.com/amazing_python3/)
