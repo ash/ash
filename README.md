@@ -11,7 +11,7 @@ You may find me in other places:
 * [Slideshare](https://www.slideshare.net/andy.sh)
 * [YouTube](https://www.youtube.com/user/MsAshport/)
 * [Instagram](https://instagram.com/andrewshitov/)
-* [shitov.ru](https://new.shitov.ru)
+* [andreyshitov.com](https://andreyshitov.com)
 
 Some interesting current projects:
 
@@ -20,11 +20,22 @@ Some interesting current projects:
 * [Creating a Compiler with Raku](https://andrewshitov.com/creating-a-compiler-with-raku/) (a book in progress)
 * [Amazing Python 3 on Instagram](https://www.instagram.com/amazing_python3/)
 
-My books on Amazon
+My books
+*  [A Language a Day](https://andrewshitov.com/a-language-a-day/) (NEW)
+*  [A Tour of Python 3](https://andrewshitov.com/a-tour-of-python3/)
+*  [Creating a Compiler with Raku](https://andrewshitov.com/creating-a-compiler-with-raku/)
+*  [Raku One-Liners](https://andrewshitov.com/2019/10/18/raku-one-liners-a-free-book/)
+*  [Using Raku](https://andrewshitov.com/2019/10/13/using-raku-the-free-book/)
+*  [Perl 6 Deep Dive](https://andrewshitov.com/perl-6-books/#perl6-deep-dive)
+*  [Perl 6 at a Glance](https://andrewshitov.com/perl6-at-a-glance/)
 
+Electronic or paper versions on [Amazon](https://www.amazon.com/stores/Andrew-Shitov/author/B08JJ6QH11) or [LeanPub](https://leanpub.com/u/andrewshitov).
+
+<a href="https://www.amazon.com/dp/B0DL656TY5"><img src="https://andrewshitov.com/wp-content/uploads/2024/11/cover-view-1454x2048.jpg" alt="" class="wp-image-5924" style="height: 200px; width: auto" srcset="https://andrewshitov.com/wp-content/uploads/2024/11/cover-view-1454x2048.jpg 720w, andrewshitov.com/wp-content/uploads/2024/11/cover-view-1454x2048.jpg 211w, andrewshitov.com/wp-content/uploads/2024/11/cover-view-1454x2048.jpg 768w, andrewshitov.com/wp-content/uploads/2024/11/cover-view-1454x2048.jpg 1000w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px"></a>
 <a href="https://www.amazon.com/dp/B08CY34PWF"><img src="https://andrewshitov.com/wp-content/uploads/2020/07/cover-720x1024.png" alt="" class="wp-image-5924" style="height: 200px; width: auto" srcset="https://andrewshitov.com/wp-content/uploads/2020/07/cover-720x1024.png 720w, https://andrewshitov.com/wp-content/uploads/2020/07/cover-211x300.png 211w, https://andrewshitov.com/wp-content/uploads/2020/07/cover-768x1092.png 768w, https://andrewshitov.com/wp-content/uploads/2020/07/cover.png 1000w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px"></a>
 <a href="https://www.amazon.com/Using-Raku-Programming-Challenges-Language-ebook/dp/B08CY6PKLJ"><img src="https://andrewshitov.com/wp-content/uploads/2019/09/using-perl6-1.jpg" alt="" class="wp-image-5940" style="height: 200px; width: auto" ></a>
 <a href="https://www.amazon.com/Using-Raku-Programming-Challenges-Language-ebook/dp/B08CY6PKLJ"><img src="https://andrewshitov.com/wp-content/uploads/2020/07/cover-724x1024.jpg" alt="" class="wp-image-5940" style="height: 200px; width: auto" srcset="https://andrewshitov.com/wp-content/uploads/2020/07/cover-724x1024.jpg 724w, https://andrewshitov.com/wp-content/uploads/2020/07/cover-212x300.jpg 212w, https://andrewshitov.com/wp-content/uploads/2020/07/cover-768x1086.jpg 768w, https://andrewshitov.com/wp-content/uploads/2020/07/cover-1086x1536.jpg 1086w, https://andrewshitov.com/wp-content/uploads/2020/07/cover-1448x2048.jpg 1448w, https://andrewshitov.com/wp-content/uploads/2020/07/cover-1200x1697.jpg 1200w, https://andrewshitov.com/wp-content/uploads/2020/07/cover-scaled.jpg 1810w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px"></a>
 <a href="https://www.amazon.com/Raku-One-Liners-Getting-expressive-routines-ebook/dp/B08CY7DVPT"><img src="https://andrewshitov.com/wp-content/uploads/2020/07/cover-stroke-764x1024.jpg" alt="" style="height: 200px; width: auto" class="wp-image-5942" srcset="https://andrewshitov.com/wp-content/uploads/2020/07/cover-stroke-764x1024.jpg 764w, https://andrewshitov.com/wp-content/uploads/2020/07/cover-stroke-224x300.jpg 224w, https://andrewshitov.com/wp-content/uploads/2020/07/cover-stroke-768x1029.jpg 768w, https://andrewshitov.com/wp-content/uploads/2020/07/cover-stroke.jpg 1000w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px"></a>
 <a href="https://www.amazon.com/Perl-at-Glance-Andrew-Shitov-ebook/dp/B08CYB4HFN/"><img src="https://andrewshitov.com/wp-content/uploads/2020/07/perl6-at-a-glance.jpg" alt="" style="height: 200px; width: auto" class="wp-image-5945" srcset="https://andrewshitov.com/wp-content/uploads/2020/07/perl6-at-a-glance.jpg 560w, https://andrewshitov.com/wp-content/uploads/2020/07/perl6-at-a-glance-208x300.jpg 208w" sizes="(max-width: 560px) 85vw, 560px"></a>
 <a href="https://www.amazon.com/Perl-Deep-Dive-manipulation-concurrency-ebook/dp/B073FQR8JB"><img src="https://andrewshitov.com/wp-content/uploads/2020/07/B07097_MockupCover-01.png" alt="" style="height: 200px; width: auto" class="wp-image-5945"></a>
+
